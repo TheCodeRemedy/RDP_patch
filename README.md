@@ -7,7 +7,7 @@ This scripts edits the Windows\sytem files and should be used with caution. Use 
 # Instructions
 Place the TEST folder with its contents in the C: drive. (If you would like to use a different drive you must edit the script appropriately. )
 
-Open a command prompt as admin and run the script. 
+Open a command prompt as admin cd into the folder containing the script and run the script by simply typing the name of the script. ("FileSwap.vbs")
 
 Check the Windows\Logs\TheCodeRemedy\ log to see if the script ran correctly.
 
