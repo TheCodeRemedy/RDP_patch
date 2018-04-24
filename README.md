@@ -9,5 +9,5 @@ Place the TEST folder with its contents in the C: drive. (If you would like to u
 
 Open a command prompt as admin cd into the folder containing the script and run the script by simply typing the name of the script. ("FileSwap.vbs")
 
-Check the Windows\Logs\TheCodeRemedy\ log to see if the script ran correctly.
+Check the Windows\Logs\TheCodeRemedy\ log file to verify the results.
 
